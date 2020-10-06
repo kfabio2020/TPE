@@ -1,1 +1,2 @@
-# TPE
+# Identification des maladies des plantes à partir d'un smartphone en utilisant du deep learning
+Le projet consiste à former un modèle d'apprentissage automatique pour classifier des images de maladies des plantes en utilisant un réseau de neurone convolutif. Ensuite il faut intégrer le modèle dans une application mobile pour la reconnaissance des maladies des plantes sur les smartphones. Pour la formation du modèle nous avions utilisé un modèle Resnet50. Et pour l’application mobile nous avions utilisé le framework Flutter.
